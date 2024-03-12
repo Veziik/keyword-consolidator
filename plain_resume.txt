@@ -1,0 +1,173 @@
+Daniel E. Menendez
+1030 West Side Dr. Gaithersburg, MD 20878 | menendez.daniel2@gmail.com | (240) 676-7162
+github.com/Veziik | tinyurl.com/DanielMenendez
+
+Work Experience
+Full Stack Software Engineer: 6/2019 - 2/2024, 40hr/w (Remote)
+CloudBolt Software
+Rockville, MD
+Supervisor: Alexandre Augusto da Rocha (240) 888-2710
+Enhanced and maintained integration of cloud technology API within the CMP product, including AWS, Azure, GCP, VMware, Alibaba Cloud, AWS GovCloud, OCI, IBM SoftLayer. OpenStack, Terraform, Kubernetes
+Updated end-to-end functionality of critical code architecture on an everyday basis
+Collaborated with colleagues across global time zones, contributing to various teams as need dictated
+Pivoted to working on different sections of the product with flexibility
+Added developer extension to expedite and simplify the addition of new content to the in-product content library, and wrote a how-to document explaining its usage
+Wrote GitHub actions to automate the delivery of in-house content, including versioning and bucketing capabilities in both staging and production environments
+Created and update content served to customers via the in-product content library
+Updated the frontend to support internationalization via Vue3 and Django templating, and established the process by which developers implement internationalization
+Participated in customer support calls, and diagnosed and solved customer issues in both English and Spanish
+Worked across all departments
+Transitioned from a waterfall release model to a CI/CD release cycle
+
+Application Developer: 2/2018 - 6/2019, 12hr/w
+AQUAS Inc.
+Kensington, MD
+Supervisor: Carmen Larsen (301) 654-4000
+Developed web based applications for the private and public sectors
+Modified existing applications for medical clients
+
+General Intern: 8/2018 - 9/2018, 40hr/w
+The Chertoff Group
+Washington, DC
+Supervisor: Kanad Virk
+Tracked the movements of all guests within the organization’s walls
+Answered and vet calls to the front desk
+Proofread technical documents meant for client use
+Assisted in the creation of a security readiness scoring system for use with clients
+Provided briefs which are both succinct and informative enough for the reader within an hour of request
+Wrote and presented a weekly cybersecurity brief
+
+Java Software Development Intern: 4/2016 - 2/2017, 20hr/w
+Montgomery County Department of Technology Services
+Rockville, MD
+Supervisor: Sonny Seagal, (240) 777-2822, Sonny.Segal@montgomerycountymd.gov :
+Executed authorized security scans on the county government’s network and generate reports
+Developed web crawler software with Java to flag dead links across an entire domain
+Compiled data with Java for dataMontgomery, Montgomery County Government’s collection public database on all departments
+
+Web Administrator and IT Volunteer: 6/2015 - 6/2020, 10hr/w
+Maryland Hispanic Gala (Maryland Hispanic Coalition)
+Silver Spring, MD
+Supervisor: Lorna Virgili (240) 277-8072
+Maintained the organization's entire website
+Created and maintain assets used for social media outreach on facebook
+Built the program slideshow for each annual gala
+
+Co-Host of Young Montgomery: 6/2015 - 6/2019, 20hr/w
+Montgomery County Office of Public Information
+Rockville, MD
+Supervisor: Michael Bruen (phone number available upon request)
+Served as the show’s on camera co-host/producer
+Collaborated with the television crew of Montgomery County Office of Public Information for the taping of the show
+Researched organizations to be interviewed before each show
+Prepared and organize questions with other co-host
+Provided a positive and relaxed environment for interviewees to answer questions in a pre recorded television format
+Informed the community about activities, events and organizations available to the youth of Montgomery county
+
+[Recognized as Achievement Award winner by the National Association of Counties (NACo) for developing an innovative County Government Program.]
+
+IT Intern: 6/2015 - 8/2015, 40hr/w
+TechXact Group Corp
+Rockville, MD
+Ensured the continuous running of the organization’s phone and internet networks
+Refurbished PCs for employee use
+Provided immediate support on all technology issues within the organization
+
+Web Design Intern: 6/2013, 40hr/w
+Hispanic Dental Association
+Washington, DC
+Supervisor: Carolina Galeano (301) 221-9491
+Reviewed, recommended, and executed changes to organization’s website
+Prepared additional webpage for that year’s upcoming national convention
+
+Advisory Volunteer: 6/2009 -8/2010, 3hr/w
+Youth Advisory Committee under County Executive Isaiah Legget
+Silver Spring, MD
+Supervisor: Valerie Graham (Number Available upon request)
+Compiled and report the problems facing youth in Montgomery County, Maryland
+Participated in fundraising events for the organization
+Prepared a float for the Thanksgiving day Parade
+
+Licenses/Certifications
+Federal Firearms License (06)
+Education & Training
+University of Maryland, College Park: 8/2014 - 5/2018
+Bachelors in Sciences with a focus on Computer Science from the College of Computer, Mathematical, and Natural Sciences.
+
+Transcript Available Upon Request
+
+Coursework:
+CMSC131 Object oriented Programming 1
+CMSC132 Object oriented Programming 2
+CMSC216 Intro to Computer Systems
+CMSC250 Discrete Mathematics
+CMSC330 Organization of Programming Languages
+CMSC351 Algorithms
+CMSC420 Data Structures
+CMSC424 Database Design
+CMSC417 Networking
+CMSC414 Computer Security
+CMSC427 Computer Graphics
+CMSC425 Game Programming
+CMSC433 Programming Technology and paradigms
+STAT400 Applied Probability and Statistics
+MATH141 Calculus 2
+MATH240 Linear Algebra
+ENGL295 Literature in a Digital Age
+ENGL395 Advanced Composition
+
+Black Belt Martial Arts Instructor: 6/2013 - 7/2018
+Master Method Karate: 6/2013 - 2/2017
+Rockville, MD
+Supervisor: Joe El Katib, (301) 570-0100
+
+Rebellion Martial Arts: 2/2017 - 7/2018
+Colesville, MD
+Supervisor: Sergey Pshenichkin, (301) 642-0877
+6/2014 - 6/2015
+Assist higher rank instructors with class while enforcing school policy.
+Instruct classes for students starting from 2 years of age and higher.
+Offer additional one on one for instruction for students who wish to excel in their studies.
+Organize and coordinate seasonal events at Montgomery County Public Schools
+Handle financial transactions
+
+2/2017 - 4/2017
+Ensure the smooth transfer of the school from the hands of one company to another.
+Plan and implement curriculum for students of all ages.
+Monitor struggling students and provide additional assistance.
+Approve students for belt promotions.
+Maintain a clean and healthy learning environment for all students to guarantee their safety.
+Respond to parent’s inquiries regarding the progress of their children
+
+Flamenco Guitar Instruction: 2010 - 2019
+Instructor: Torcuato Zamora
+Skills
+Technical
+Python, Ruby
+JavaScript, HTML, Flash
+Java, C#
+Bash
+C, C++
+Internal Ballistics Calculations
+Cloud Integration
+VMware VCenter
+AWS (Amazon Web Services)
+Azure
+GCP (Google Cloud Platform)
+Alibaba Cloud
+Kubernetes
+Terraform
+Agile methodology
+Jira
+Confluence
+GitHub
+Pycharm
+Microsoft Visual Studio
+
+
+Non-Technical
+Fluent in Spanish
+Conversational capability in Japanese
+Basic knowledge and proficiency in French and Italian
+
+are Engineer DevOps Engineer Cloud Computing Senior Engineer Principal Engineer Programming Applications Developer Lead Software Engineer Full Stack Engineer Mid Level Engineer Frontend  UI Developer Polyglot Spanish Translation Fluent Japanese Conversational Certification IT Information Technology Embedded SecOps Security Cybersecurity rest api REST API flexibility committed collaborative agile framework technical skills operations innovative maintenance tasks on callassociate release and change management system health upstream downstream end-to-end hardware distributed systems SLAs reporting amazon web services bash shell powershell able to obtain clearance shell  support troubleshooting Willing to learn new technologies analyze debug studying techniques scrum computing security vulnerability scanning containerization vaccinated agile framework oversight sport js html css reloading françaisitaliano lifting javac independently collaboratively español weight 5 hrw capable warhammer tae resume 40hr week arts master kwon archery do 8201892018 degree 日本語 high hobbies shooting handling python ruby email specialist parkour hs setting it devops bachelor’s 30 hrw minimal cc driven french italian 2nd 40000 php contact sherwood 2018 cooking team oriented tv 2014
